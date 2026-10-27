@@ -1,0 +1,40 @@
+[
+  {
+    "Id": 1,
+    "Name": "sss",
+    "Purpose": "sss",
+    "Owner": "sss",
+    "Components": [
+      {
+        "Name": "aaa",
+        "Type": "aaa",
+        "Price": 23410
+      },
+      {
+        "Name": "ddd",
+        "Type": "ddd",
+        "Price": 900
+      }
+    ],
+    "BuildTotal": 24310
+  },
+  {
+    "Id": 2,
+    "Name": "aaaa",
+    "Purpose": "aaaa",
+    "Owner": "aaaa",
+    "Components": [
+      {
+        "Name": "sss",
+        "Type": "sss",
+        "Price": 33330
+      },
+      {
+        "Name": "qweqw",
+        "Type": "qweqw",
+        "Price": 33330
+      }
+    ],
+    "BuildTotal": 66660
+  }
+]
